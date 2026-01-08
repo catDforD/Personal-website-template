@@ -1,0 +1,52 @@
+# Articles Index / 文章索引
+#
+# 每篇文章都需要在这里添加条目
+# Each article needs to be added here
+
+articles:
+  # 示例文章 / Example Article
+  - id: "welcome"
+    title: "欢迎来到我的博客 / Welcome to My Blog"
+    date: "2025-01-08"
+    category: "公告 / Announcement"
+    tags: ["博客", "说明", "Blog", "Guide"]
+    summary: "这是博客的第一篇文章，介绍博客的功能和使用方法。 / This is the first article introducing the blog features."
+    file: "2025-01-08-welcome.md"
+
+  # 示例文章 / Example Article
+  - id: "markdown-example"
+    title: "Markdown 语法示例 / Markdown Syntax Example"
+    date: "2025-01-15"
+    category: "技术笔记 / Tech Notes"
+    tags: ["Markdown", "示例", "Example"]
+    summary: "展示 Markdown 各种语法用法的示例文章。 / An example article showing Markdown syntax."
+    file: "2025-01-15-markdown-example.md"
+
+  # 示例文章 / Example Article
+  - id: "math-example"
+    title: "数学公式支持示例 / Math Formula Support Example"
+    date: "2025-01-20"
+    category: "技术笔记 / Tech Notes"
+    tags: ["MathJax", "数学公式", "LaTeX"]
+    summary: "展示博客支持的数学公式渲染功能。 / Showing math formula rendering support."
+    file: "2025-01-20-math-example.md"
+
+# ============================================
+# 如何添加新文章 / How to Add New Article
+# ============================================
+#
+# 1. 在 contents/blog/ 目录下创建新的 .md 文件
+#    Create a new .md file in contents/blog/
+#
+# 2. 在这里添加文章条目
+#    Add your article entry here
+#
+# 3. 字段说明:
+#    - id: 文章唯一标识（用于 URL），建议用日期开头
+#    - title: 文章标题
+#    - date: 发布日期，格式 YYYY-MM-DD
+#    - category: 分类
+#    - tags: 标签列表
+#    - summary: 文章摘要（显示在列表页）
+#    - file: 对应的 .md 文件名
+# ============================================

@@ -1,0 +1,26 @@
+# Website Configuration
+# 网站配置文件
+
+# ============================================
+# Basic Settings / 基本设置
+# ============================================
+title: Your Name's Homepage        # 网站标题，显示在浏览器标签页
+page-top-title: Your Name          # 导航栏显示的名称
+top-section-bg-text: Be what you wanna be  # 首页大图的标语
+
+# ============================================
+# Home Section / 首页板块
+# ============================================
+home-subtitle: Your Title | Your Department, University  # 首页副标题
+# 例如: PhD Student | Department of Computer Science, Stanford
+
+# ============================================
+# Copyright / 版权信息
+# ============================================
+copyright-text: '&copy; Your Name 2023-2026. All Rights Reserved.'
+
+# ============================================
+# Links / 链接
+# ============================================
+# GitHub link (optional)
+github-username: your-github-username
