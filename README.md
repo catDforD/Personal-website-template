@@ -1,14 +1,19 @@
 # Personal Website with Blog / 个人主页 + 博客模板
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/personal-website-template?style=flat)](https://github.com/yourusername/personal-website-template)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/personal-website-template?style=flat)](https://github.com/yourusername/personal-website-template)
-[![License](https://img.shields.io/github/license/yourusername/personal-website-template?style=flat)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/catDforD/personal-website-template?style=flat)](https://github.com/catDforD/personal-website-template)
+[![GitHub forks](https://img.shields.io/github/forks/catDforD/personal-website-template?style=flat)](https://github.com/catDforD/personal-website-template)
+[![License](https://img.shields.io/github/license/catDforD/personal-website-template?style=flat)](LICENSE)
 
 A personal homepage + blog template built with pure HTML/CSS/JS, deployable on GitHub Pages. Features include responsive design, Markdown support, math formulas, and a complete blog system.
 
 一个基于纯 HTML/CSS/JS 的个人主页 + 博客模板，可部署在 GitHub Pages 上。特点包括响应式设计、Markdown 支持、数学公式，以及完整的博客系统。
 
-![Screenshot](screenshot.png)
+## 🔍 Screenshots / 主页截图
+![Screenshot](Screen_full.png)
+## 🔍 Blog Screenshot / 博客截图
+![Screenshot](Blog_full.png)
+## Article Screenshot / 文章截图
+![Screenshot](Art.png)
 
 ## ✨ Features / 功能特点
 
