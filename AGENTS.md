@@ -165,3 +165,7 @@ This is a static personal website template using pure HTML/CSS/JS with Bootstrap
 | CSS/JS not loading | Ensure files in root directory, not `/docs` |
 | Custom domain | Configure in Settings → Pages → Custom domain |
 | SSL not working | Enable "Enforce HTTPS" in Pages settings |
+
+
+## Github 推送注意事项
+- 请使用中文规范编写commit message

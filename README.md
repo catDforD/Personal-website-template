@@ -87,6 +87,12 @@ git commit -m "Update my website"
 git push
 ```
 
+### Step 8: Github Pages
+- Under your repository name, click Settings.
+- In the "Code and automation" section of the sidebar, click Pages.
+- Under "Build and deployment", under "Source", select Deploy from a branch. Then, use the branch dropdown menu and select a publishing source.
+
+
 Your site will be live at `https://<username>.github.io/` in a few minutes.
 
 ## 📖 Documentation / 文档
